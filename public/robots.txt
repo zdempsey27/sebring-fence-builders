@@ -1,0 +1,8 @@
+# Robots.txt for Odessa Fence Builders
+# https://odessafencebuilders.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://odessafencebuilders.com/sitemap-index.xml
