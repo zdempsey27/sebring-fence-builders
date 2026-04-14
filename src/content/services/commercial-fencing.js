@@ -1,83 +1,99 @@
 export const commercialFencingContent = {
   seo: {
     title: "Commercial Fencing in {city}, {stateAbbr} | {businessName}",
-    description: "Professional commercial fencing in {city}, {stateAbbr}. Security perimeters, access control, and industrial fencing. Call {phone} for a commercial quote.",
+    description:
+      "Commercial fencing for businesses and industrial properties in {city} and {county}. Security perimeters, chain-link, ornamental iron, and access control. Call {phone}.",
   },
   hero: {
-    heading: "Commercial Fencing in {city}",
-    subtitle: "Security perimeters, access control, and industrial fencing for businesses and commercial properties throughout {city} and {stateAbbr}.",
-    ctaText: "Get a Commercial Quote",
+    heading: "Commercial Fencing in {city}, {stateAbbr}",
+    subtitle:
+      "Security perimeters, access control, and durable fencing for businesses, industrial sites, and multi-family properties throughout {county}.",
+    ctaText: "Get a Commercial Fence Quote",
   },
   intro: {
-    formHeading: "Get Your Commercial Fencing Quote",
-    content: "Commercial fencing demands more than most residential jobs — higher security requirements, larger scale, permit coordination, and fencing that holds up to heavy use and public exposure. {businessName} handles commercial fencing projects for businesses, industrial properties, schools, multi-family developments, and government facilities throughout {city} and Northwest {stateAbbr}. We understand commercial project timelines and requirements.",
+    formHeading: "Request a Commercial Fencing Quote",
+    content:
+      "Commercial fencing has different requirements than residential work — higher security demands, more traffic on the fence, often more complex access control needs, and regulatory compliance in some industries. {businessName} handles commercial fencing for businesses across {county} and the {region}: chain-link security perimeters, ornamental iron for commercial properties, high-security options for industrial sites, and fencing for multi-family housing and institutional facilities.",
   },
   sections: [
     {
-      heading: "Commercial Fencing for the {city} Area",
-      content: "{city} has a substantial industrial and manufacturing base, with carpet and flooring operations, distribution facilities, and commercial properties that need serious perimeter fencing. We install chain link with barbed wire toppers for industrial security, ornamental iron for commercial frontage, privacy fencing for multi-family residential properties, and steel tube perimeter fencing for properties that require a higher level of deterrence. The right fence type depends on the specific application, visibility requirements, and security needs.",
+      heading: "Security Fencing for Businesses in {county}",
+      content:
+        "Commercial properties in and around {city} have varied security requirements depending on the type of business. Retail lots and business parks typically need perimeter definition with controlled access at vehicle entry points. Equipment yards, utility sites, and storage facilities require more robust fencing with anti-climb features. Industrial operations may need higher-security configurations with barbed wire or razor wire toppers. We assess the actual security requirements of your property and specify fencing that addresses them without over-engineering the solution.",
     },
     {
-      heading: "Access Control and Gate Systems",
-      content: "Commercial properties often need more than a static perimeter fence — they need controlled access. We install slide gates, swing gates, and automated gate openers for commercial and industrial use. Vehicle access gates are sized for truck and equipment clearance. Pedestrian gates are positioned for employee and visitor entry. We work with access control hardware suppliers to integrate keypads, card readers, and intercoms into gate systems when required.",
+      heading: "Commercial-Grade Chain-Link",
+      content:
+        "Commercial-grade chain-link is the backbone of most commercial fence projects in {county}. The specifications differ from residential: heavier gauge wire, larger post diameter, closer post spacing for taller installations, and commercial-grade gate hardware rated for daily use. Privacy slats, barbed wire extensions, and windscreen fabric are common additions. {businessName} installs commercial chain-link to the specifications the application requires — not residential materials on a commercial job.",
     },
     {
-      heading: "Commercial Project Process",
-      content: "Commercial fence projects require more coordination than residential work. We pull required permits, work with site managers or general contractors when required, and fit within project timelines. Our estimates include material specifications, layout drawings when needed, and clear scope definitions so there are no surprises mid-project. For ongoing commercial relationships, we also provide maintenance and repair services to keep perimeters in working condition.",
+      heading: "Ornamental and Aesthetic Commercial Fencing",
+      content:
+        "Not all commercial fencing is purely utilitarian. Office parks, retail centers, restaurants, and professional services businesses along {city}'s commercial corridors benefit from fencing that's attractive and functional. Ornamental aluminum and wrought iron, decorative steel panels, and well-designed chain-link installations with matching gates can enhance a commercial property's appearance while meeting real security needs. {businessName} helps commercial clients find the balance between security requirements and the image the property presents.",
     },
   ],
   gallery: {
-    heading: "Commercial Fencing Projects in {city}",
+    heading: "Commercial Fencing Projects in {county}",
   },
   signsYouNeed: {
-    heading: "When Your Commercial Property Needs Better Fencing",
-    intro: "Commercial fencing requirements are specific to the operation and property type.",
+    heading: "When to Upgrade Your Commercial Fencing",
+    intro: "Here are the situations that most commonly lead commercial property owners to call {businessName}.",
     cards: [
       {
-        heading: "Inadequate Security Perimeter",
-        content: "If unauthorized access is possible or has already occurred, the existing perimeter fence isn't doing its job. Upgraded chain link, height extensions, or barbed wire toppers may be the right fix.",
+        heading: "Security Incidents at the Perimeter",
+        content:
+          "Trespassing, theft, or unauthorized access is often the catalyst for upgrading commercial fencing. A proper security perimeter with controlled access points addresses most perimeter vulnerabilities at a fraction of the cost of continued losses.",
       },
       {
-        heading: "Liability Around Hazardous Areas",
-        content: "Machinery, equipment yards, utility areas, and loading zones on commercial property need proper fencing to limit unauthorized access and reduce liability exposure.",
+        heading: "Existing Fence Is Aging or Failing",
+        content:
+          "Older commercial fencing with rusted sections, bent posts, and failing gate hardware doesn't project a professional image — and more importantly, it no longer fulfills the security function it was installed for.",
       },
       {
-        heading: "Property Under Development",
-        content: "New commercial construction, expansion projects, and site improvements frequently require perimeter fencing as part of the site plan. We work directly with builders and developers.",
+        heading: "New Construction or Property Expansion",
+        content:
+          "New buildings, parking lot expansions, and property reconfigurations often require new fencing to define the updated perimeter. Planning fencing as part of the construction project, not as an afterthought, produces better results.",
       },
       {
-        heading: "Aging or Failing Perimeter",
-        content: "Commercial fencing that's been in place for years can degrade — posts shift, gates bind, and security gaps develop. A targeted assessment and repair or replacement is worth the investment.",
+        heading: "Regulatory or Insurance Requirements",
+        content:
+          "Certain industries — childcare facilities, utilities, pool areas — have regulatory fencing requirements. Insurance requirements for some commercial properties also specify fence height and security configuration. {businessName} is familiar with common commercial fencing requirements in {stateAbbr}.",
       },
     ],
   },
   process: {
-    heading: "How We Handle Commercial Fencing Projects",
-    intro: "Commercial projects require coordination and planning beyond standard residential installations.",
+    heading: "Our Commercial Fencing Process",
+    intro: "Commercial projects require more coordination than residential work. Here's how {businessName} manages them.",
     steps: [
       {
-        heading: "Site Assessment and Scope",
-        content: "We visit the property, assess fencing needs, confirm security and access requirements, and identify any permit or coordination requirements. Commercial quotes are detailed and accurate.",
+        heading: "Site Assessment and Scope Development",
+        content:
+          "We visit the property, assess security and access requirements, review any regulatory specifications, and develop a detailed project scope. Commercial projects often require coordination with property managers or general contractors — we're accustomed to that.",
       },
       {
-        heading: "Permit and Coordination",
-        content: "We handle required permits through the City of {city} or county authorities, and coordinate with site managers or other trades as needed to fit the project schedule.",
+        heading: "Commercial-Grade Specification",
+        content:
+          "Commercial fencing specifications — post diameter, wire gauge, footing depth, gate hardware — are determined based on the application and any regulatory requirements. We don't apply residential standards to commercial projects.",
       },
       {
-        heading: "Installation",
-        content: "Commercial installations are completed by our experienced crew with equipment suited to larger-scale work. We keep the site clean, maintain access for ongoing operations, and work efficiently.",
+        heading: "Installation and Coordination",
+        content:
+          "Installation is scheduled to minimize disruption to business operations where possible. Phased installation and coordination with other trades are manageable depending on the project. We communicate clearly about the schedule and any access requirements.",
       },
       {
-        heading: "Final Walk and Documentation",
-        content: "We walk the completed perimeter with the property manager or owner, confirm all gates operate correctly, and provide documentation of the completed work. Permits are closed out properly.",
+        heading: "Final Inspection and Documentation",
+        content:
+          "Completed installations are inspected against the project specification. Where required for permitting or insurance, we can provide documentation of the installed fence specifications. Gate systems are tested and any operators are commissioned.",
       },
     ],
   },
   cta: {
     heading: "Get a Commercial Fencing Quote in {city}",
-    content: "Contact {businessName} at {phone} to discuss your commercial fencing project. We serve businesses and commercial properties throughout {city} and Northwest {stateAbbr}.",
-    ctaText: "Request a Commercial Quote",
+    content:
+      "{businessName} handles commercial fencing projects of all scales throughout {county} and the {region}. Call {phone} or submit the form for a free assessment and quote.",
+    ctaText: "Request a Commercial Fence Quote",
   },
-  closing: "For commercial fencing in {city} that meets your security and operational requirements, contact {businessName} at {phone}.",
+  closing:
+    "From small business perimeters to large industrial fencing projects, {businessName} brings the same commitment to correct specifications, quality materials, and professional installation to every commercial job.",
 };
 export default commercialFencingContent;

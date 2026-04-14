@@ -1,83 +1,100 @@
 export const chainLinkFenceContent = {
   seo: {
-    title: "Chain Link Fence Installation in {city}, {stateAbbr} | {businessName}",
-    description: "Affordable, durable chain link fence installation in {city}, {stateAbbr}. Residential and commercial. Call {phone} for a free estimate.",
+    title: "Chain-Link Fence Installation in {city}, {stateAbbr} | {businessName}",
+    description:
+      "Chain-link fence installation and repair in {city}, {stateAbbr}. Residential, commercial, and agricultural. Call {phone} for a free estimate.",
   },
   hero: {
-    heading: "Chain Link Fence Installation in {city}",
-    subtitle: "Durable, cost-effective fencing for residential and commercial properties across {city} and {stateAbbr}.",
+    heading: "Chain-Link Fence Installation in {city}, {stateAbbr}",
+    subtitle:
+      "Durable, affordable chain-link fencing for residential yards, commercial sites, and agricultural properties across {county}.",
     ctaText: "Get a Free Estimate",
   },
   intro: {
-    formHeading: "Get Your Free Chain Link Estimate",
-    content: "Chain link is one of the most practical fencing choices available — strong, affordable, and low-maintenance. {businessName} installs chain link fences for homeowners, businesses, and commercial properties throughout {city} and the surrounding area. Whether you're securing a backyard, enclosing a commercial lot, or fencing a sports area, chain link delivers reliable performance at a price that makes sense.",
+    formHeading: "Request a Chain-Link Fence Quote",
+    content:
+      "Chain-link fencing is one of the most practical and cost-effective options for property owners in {city} and across {county}. It defines boundaries, provides security, and maintains airflow — a real advantage in {city}'s subtropical climate. {businessName} installs chain-link for homeowners, businesses, and agricultural operations throughout the {region}, with specifications matched to each application.",
   },
   sections: [
     {
-      heading: "Chain Link Built for {city}'s Climate",
-      content: "Northwest {stateAbbr}'s heat and humidity put real demands on fencing materials. Chain link holds up well because it's galvanized or vinyl-coated to resist rust and corrosion. Posts are set in concrete to handle {stateAbbr}'s clay soil, which shifts with seasonal moisture changes. We size the post gauge and mesh weight to match the application — residential yards get different specs than commercial security perimeters. Proper installation is what separates a fence that lasts decades from one that's sagging within a few years.",
+      heading: "Chain-Link Options for Every Application",
+      content:
+        "Not all chain-link is built the same. We offer galvanized steel for maximum durability, vinyl-coated chain-link in black or green for a cleaner appearance, and options from 3-foot residential to 10-foot commercial heights. Privacy slats can be woven through the mesh for added screening. Whether you're securing a backyard in a subdivision near Lake Jackson or enclosing a commercial lot on US-27, we match the gauge, height, and finish to your specific needs.",
     },
     {
-      heading: "Residential and Commercial Options",
-      content: "For homes, we install standard 4-foot and 6-foot chain link with options for privacy slats in black, brown, or green that partially screen the view. For commercial and industrial applications, we install heavier-gauge fabric, larger posts, and barbed wire or razor wire toppers where security requires it. Gates are included in every project — walk gates, double drive gates, and rolling gates for wide access openings. We handle the full job from post setting to gate hanging.",
+      heading: "Proper Installation in {city}'s Sandy Soil",
+      content:
+        "Chain-link is only as solid as its posts. In {stateAbbr}'s sandy, loose soil, shallow posts are the most common reason fences lean and fail early. We set terminal posts — corners, ends, and gates — to proper depth with concrete footings, and space line posts correctly for the fence height. Done right, a chain-link fence in {city} should hold up for decades through summer storm seasons and all.",
     },
     {
-      heading: "Vinyl-Coated and Galvanized Finishes",
-      content: "Standard galvanized chain link is the most economical option and holds up well when properly installed. Vinyl-coated chain link in black or green provides added corrosion resistance and a cleaner appearance that blends better with landscaping. The coating also extends fence life in high-humidity environments like {city}'s summers. We stock both options and can show you samples when we come out for your estimate so you can compare them side by side before committing.",
+      heading: "Commercial and Agricultural Chain-Link",
+      content:
+        "Chain-link handles commercial perimeters, equipment yards, kennels, and pool enclosures well. For agricultural properties in {county} — cattle operations, equine facilities, and working ranches — it also serves specific purposes where cost per foot matters. We handle commercial and agricultural-scale installations alongside residential work, and the same standards for post depth and tension apply across every job.",
     },
   ],
   gallery: {
-    heading: "Chain Link Fence Projects in {city}",
+    heading: "Chain-Link Fence Installations in {county}",
   },
   signsYouNeed: {
-    heading: "Signs You Need a New Chain Link Fence",
-    intro: "Chain link is durable, but it doesn't last forever. Here's when to consider a replacement.",
+    heading: "Signs You Need a New Chain-Link Fence",
+    intro:
+      "Not every fence problem requires full replacement, but these are clear indicators it's time to call {businessName}.",
     cards: [
       {
-        heading: "Rust and Corrosion",
-        content: "Surface rust can sometimes be treated, but widespread corrosion through the mesh or at the posts means the fence has reached end of life. {stateAbbr}'s humidity accelerates rust on bare or failing coatings.",
+        heading: "Posts Are Leaning",
+        content:
+          "Leaning posts usually mean the original installation was too shallow, or the concrete footing has deteriorated. Once posts shift, tension on the mesh is compromised and the fence loses its function.",
       },
       {
-        heading: "Bent or Pulled Mesh",
-        content: "Bent sections that won't return to shape, pulled-out attachment points, or sagging mesh between posts indicate the fence is no longer providing real security or utility.",
+        heading: "Mesh Is Sagging or Torn",
+        content:
+          "Sagging mesh that pulls away from posts or has torn sections can't be patched effectively long-term. Section replacement or full re-tensioning may be more economical depending on how far the damage has spread.",
       },
       {
-        heading: "Failing Posts",
-        content: "Posts that lean, rock, or show corrosion at the base mean the foundation is compromised. Once posts fail, the whole fence line is unstable regardless of how the mesh looks.",
+        heading: "Rust Is Spreading",
+        content:
+          "Surface rust on galvanized fencing is common over time, especially near standing water. When rust starts spreading aggressively through the mesh, the structural integrity of the wire begins to degrade.",
       },
       {
-        heading: "Undersized for Current Needs",
-        content: "Sometimes the original fence was built to a lower spec than you actually need. If your security or containment requirements have changed, a replacement built to today's standards makes sense.",
+        heading: "Storm Damage",
+        content:
+          "{city} gets strong summer storms. Wind-blown debris can bend mesh, collapse sections, or knock gates out of alignment. {businessName} handles post-storm repairs and full section replacements across {county}.",
       },
     ],
   },
   process: {
-    heading: "How We Install Chain Link Fences",
-    intro: "A well-installed chain link fence starts with proper site preparation and accurate layout.",
+    heading: "How We Install Your Chain-Link Fence",
+    intro: "Here's what to expect from start to finish when you hire {businessName}.",
     steps: [
       {
-        heading: "Site Assessment and Estimate",
-        content: "We measure the fence line, note grade changes or obstacles, and confirm post spacing and mesh specifications. You receive a written estimate before anything starts.",
+        heading: "On-Site Estimate",
+        content:
+          "We walk the property with you, measure the fence line, note grade changes or obstacles, and confirm specifications — height, gauge, coating, gate locations. You get a written estimate before any commitment.",
       },
       {
-        heading: "Post Setting",
-        content: "Terminal posts — corners, gates, and ends — go in first, set in concrete at proper depth for {stateAbbr}'s soil. Line posts follow at standard intervals. We let concrete cure before tensioning the fabric.",
+        heading: "Layout and Post Setting",
+        content:
+          "We mark post locations, dig to the correct depth for your soil conditions, and set all posts in concrete. We allow proper cure time before tensioning the mesh to ensure the posts are solid.",
       },
       {
-        heading: "Fabric and Hardware Installation",
-        content: "Chain link fabric is unrolled along the fence line, attached to terminal posts, and tensioned until taut. Top rail is installed and all hardware — bands, ties, caps — is secured correctly.",
+        heading: "Mesh Installation and Tensioning",
+        content:
+          "Chain-link mesh is attached to terminal posts and stretched to correct tension. Loose mesh sags; over-tensioned mesh stresses the posts. We dial in the right tension for a fence that stays straight.",
       },
       {
-        heading: "Gate Hanging and Final Inspection",
-        content: "Gates are hung, adjusted for smooth swing and latch operation, and tested. We walk the finished fence with you to confirm everything meets expectations before we close out the job.",
+        heading: "Gate Installation and Final Inspection",
+        content:
+          "Gates are hung, aligned, and tested for proper swing and latch function. We do a final walkthrough with you to confirm everything is level, tight, and meets your expectations.",
       },
     ],
   },
   cta: {
-    heading: "Ready to Install a Chain Link Fence in {city}?",
-    content: "Call {businessName} at {phone} for a free estimate. We install chain link for homes, businesses, and commercial properties across {city} and the surrounding area.",
-    ctaText: "Get Your Free Estimate",
+    heading: "Get a Chain-Link Fence Quote in {city}",
+    content:
+      "{businessName} installs chain-link fencing for residential, commercial, and agricultural properties throughout {county}. Call {phone} or fill out the form for a free estimate.",
+    ctaText: "Request Your Free Estimate",
   },
-  closing: "Chain link fencing from {businessName} is built to last in {city}'s climate. Contact us today at {phone} to get started.",
+  closing:
+    "From small residential yards to large commercial perimeters, {businessName} delivers chain-link installations that hold up in {city}'s climate and soil conditions.",
 };
 export default chainLinkFenceContent;

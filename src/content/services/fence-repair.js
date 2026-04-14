@@ -1,83 +1,99 @@
 export const fenceRepairContent = {
   seo: {
     title: "Fence Repair in {city}, {stateAbbr} | {businessName}",
-    description: "Fast, reliable fence repair in {city}, {stateAbbr}. Storm damage, leaning posts, broken boards, and more. Call {phone} for an honest assessment.",
+    description:
+      "Fence repair services in {city} and {county}. Storm damage, leaning posts, broken boards, and all fence types. Call {phone} for a fast repair estimate.",
   },
   hero: {
-    heading: "Fence Repair in {city}",
-    subtitle: "Fast, honest repairs for all fence types across {city} and the surrounding {stateAbbr} area.",
+    heading: "Fence Repair in {city}, {stateAbbr}",
+    subtitle:
+      "Fast, reliable fence repair for storm damage, leaning posts, broken boards, and worn hardware — all fence types, across {county}.",
     ctaText: "Get a Repair Estimate",
   },
   intro: {
     formHeading: "Request a Fence Repair Estimate",
-    content: "Not every damaged fence needs a full replacement. {businessName} provides fence repair services for homeowners and businesses throughout {city} and the surrounding area. We assess what's actually wrong, tell you whether repair or replacement makes more financial sense, and do the work without steering you toward the more expensive option. We repair wood, chain link, vinyl, iron, and farm fencing.",
+    content:
+      "Not every fence problem requires full replacement — and any contractor who tells you otherwise without assessing the damage isn't giving you a straight answer. {businessName} handles fence repairs across {county} for all fence types: wood, vinyl, chain-link, wrought iron, metal, and agricultural wire fencing. We'll tell you honestly whether repair or replacement is the right call, and give you a fair price either way.",
   },
   sections: [
     {
-      heading: "Common Fence Repairs in the {city} Area",
-      content: "Spring and summer storms in Northwest {stateAbbr} bring strong winds that knock over fence sections and break boards. Ice events in winter add weight that snaps posts or pulls fence lines loose. Beyond weather damage, posts rot at ground level over time, vinyl panels crack under impact, chain link sags as wire stretches, and gates go out of alignment from regular use. Most of these issues are repairable without replacing the entire fence — the key is getting an honest assessment of what's actually failing.",
+      heading: "Storm Damage Repairs in {county}",
+      content:
+        "Hurricane season runs June through November in {stateAbbr}, and the summer storm pattern in {city} means strong winds are a regular occurrence even outside named storms. Fence sections get blown down, posts get knocked sideways, and panels get impacted by debris multiple times a season for many property owners. {businessName} handles post-storm fence repair across {county} — section-by-section repairs, full panel replacements, and gate realignment. After a storm, call us for an assessment before assuming full replacement is needed.",
     },
     {
-      heading: "When Repair Makes Sense vs. Replacement",
-      content: "Repair is typically the right choice when post damage is localized, when only a limited number of boards or panels need replacement, and when the overall fence structure is sound. Replacement makes more sense when posts throughout the fence line are failing, when the material has genuinely reached end of life, or when cumulative repair costs are approaching the cost of new installation. We give you a straight assessment and let you decide — we don't push replacement when repair is the right call.",
+      heading: "Post Replacement and Foundation Repairs",
+      content:
+        "Leaning or rotting posts are the most common structural fence failure we repair. The cause is almost always one of two things: insufficient post depth at the original installation, or wood post rot at ground level after years of exposure to {stateAbbr}'s moisture. Post replacement can often be done without disturbing the rest of the fence run — we excavate the existing post, reset a new one in concrete at the correct depth, and reattach the rails and boards. It's a targeted fix that extends the life of an otherwise sound fence.",
     },
     {
-      heading: "Repair Work We Handle",
-      content: "Post replacement — digging out failing posts and setting new ones without disturbing the rest of the fence. Board replacement on wood privacy fences. Chain link fabric repair and post straightening. Vinyl panel replacement and post reset. Iron fence section repair and rust treatment. Gate rehang, adjustment, and hardware replacement. Farm fence post and wire repair. We bring the right materials and tools for the specific fence type we're working on.",
+      heading: "Repairs for All Fence Materials",
+      content:
+        "Wood boards split, vinyl panels crack, chain-link mesh sags, and iron fencing corrodes — every material has its failure modes. {businessName} repairs all of them. For wood fencing, we replace individual boards, rails, and posts as needed. For vinyl, we source matching panels and hardware. For chain-link, we repair mesh sections, replace bent posts, and re-tension loose runs. For iron and metal fencing, we address corrosion, replace bent sections, and restore gate function. The goal in every case is to extend the fence's service life.",
     },
   ],
   gallery: {
-    heading: "Fence Repair Work in {city}",
+    heading: "Fence Repairs Across {city} and {county}",
   },
   signsYouNeed: {
-    heading: "Signs Your Fence Needs Professional Repair",
-    intro: "Some fence issues are obvious. Others develop slowly until they become a real problem.",
+    heading: "When Your Fence Needs Repair",
+    intro: "These are the signs your fence needs attention before the problem gets worse — or more expensive.",
     cards: [
       {
-        heading: "Storm Damage",
-        content: "Sections knocked over or broken by storms need prompt attention — both for safety and because exposed openings allow unauthorized access to your property.",
+        heading: "Storm Knocked Over a Section",
+        content:
+          "A section blown down in a storm doesn't mean the whole fence is gone. Often the posts on either side of the downed section are still solid and the repair is a matter of resetting posts and replacing the damaged panels or boards.",
       },
       {
-        heading: "Leaning Posts or Sections",
-        content: "A fence that's slowly leaning is heading toward failure. The cause is usually post rot below grade or inadequate concrete at installation. Addressed early, it's a straightforward repair.",
+        heading: "Posts Are Leaning",
+        content:
+          "Leaning posts put stress on the surrounding fence and will eventually pull the section down. The sooner you address a leaning post, the less collateral damage to rails, boards, and adjacent sections.",
       },
       {
-        heading: "Rotted or Broken Boards",
-        content: "Individual board rot or breakage on a wood fence is normal over time. Replacing isolated boards is quick and inexpensive — ignoring it lets moisture work into adjacent materials.",
+        heading: "Gate Won't Open or Latch Properly",
+        content:
+          "Gates that sag, drag on the ground, or won't latch are often a hinge or post alignment issue rather than a gate replacement issue. {businessName} diagnoses and repairs gate problems as a standalone service.",
       },
       {
-        heading: "Gates That Don't Function",
-        content: "A gate that sags, drags, won't latch, or won't open freely is a daily frustration that's usually easy to fix. Hinge adjustment, post replacement, or hardware swap resolves most gate issues.",
+        heading: "Visible Rot, Rust, or Cracking",
+        content:
+          "Decay in wood, rust on metal, and cracking in vinyl are all progressive — they spread. Catching and repairing these issues early is almost always less expensive than waiting until structural integrity is compromised.",
       },
     ],
   },
   process: {
-    heading: "How We Handle Fence Repairs",
-    intro: "A good repair starts with accurately diagnosing what's failing and why.",
+    heading: "Our Fence Repair Process",
+    intro: "Here's how {businessName} handles fence repair jobs from first call to finished work.",
     steps: [
       {
-        heading: "Damage Assessment",
-        content: "We inspect the damaged area and the surrounding fence structure. Some failures are more extensive than they appear on the surface — we check post condition, footing integrity, and material condition before quoting.",
+        heading: "Assessment and Honest Diagnosis",
+        content:
+          "We come to your property and assess the actual extent of the damage or wear. We'll tell you what needs repair, what can be left alone, and whether any sections have deteriorated enough that repair versus replacement is worth a real conversation.",
       },
       {
-        heading: "Honest Recommendation",
-        content: "We tell you clearly whether repair or replacement makes more sense for your situation. If repair is the right call, we quote it accurately. If the fence is too far gone, we say that too.",
+        heading: "Written Estimate",
+        content:
+          "You get a clear estimate before any work starts. Repair estimates cover materials and labor for the specific work needed — no padding the scope to inflate the ticket.",
       },
       {
-        heading: "Repair Execution",
-        content: "We bring materials matched to the existing fence type and complete the repair properly — not just cosmetically. Replaced posts are set in concrete. Replaced boards match the existing style. Repairs are built to last.",
+        heading: "Repair Work",
+        content:
+          "We complete the repair using materials that match the existing fence wherever possible. Post replacements are set to the correct depth. Boards, panels, and hardware are matched to the existing fence for a clean, consistent result.",
       },
       {
-        heading: "Final Check",
-        content: "Once the repair is complete, we test gates, check for loose sections, and confirm the fence line is secure before we leave. The job isn't done until it's solid.",
+        heading: "Final Inspection",
+        content:
+          "We walk the repaired section with you before we leave. If anything wasn't addressed or needs follow-up, we tell you directly — no unanswered questions after the crew drives off.",
       },
     ],
   },
   cta: {
     heading: "Need Fence Repair in {city}?",
-    content: "Call {businessName} at {phone} for a repair estimate. We serve {city} and the surrounding area and can typically schedule an assessment within the week.",
-    ctaText: "Get a Repair Estimate",
+    content:
+      "Call {businessName} at {phone} for a fast assessment and honest repair estimate. We serve all of {county} and surrounding areas.",
+    ctaText: "Request a Repair Estimate",
   },
-  closing: "For fast, honest fence repair in {city}, contact {businessName} at {phone}. We fix it right the first time.",
+  closing:
+    "{businessName} handles fence repairs throughout {county} — all materials, all fence types, and straight talk about whether repair or replacement is the right call.",
 };
 export default fenceRepairContent;

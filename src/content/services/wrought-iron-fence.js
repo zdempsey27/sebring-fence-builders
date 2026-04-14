@@ -1,83 +1,99 @@
 export const wroughtIronFenceContent = {
   seo: {
     title: "Wrought Iron Fence Installation in {city}, {stateAbbr} | {businessName}",
-    description: "Custom wrought iron fence installation in {city}, {stateAbbr}. Ornamental iron fencing for homes and businesses. Call {phone} for a free estimate.",
+    description:
+      "Ornamental wrought iron fencing for homes and businesses in {city}, {stateAbbr}. Custom designs, powder-coat finishes built for Florida's humidity. Call {phone}.",
   },
   hero: {
-    heading: "Wrought Iron Fence Installation in {city}",
-    subtitle: "Ornamental iron fencing that combines classic style with lasting strength for {city} properties.",
+    heading: "Wrought Iron Fence Installation in {city}, {stateAbbr}",
+    subtitle:
+      "Decorative wrought iron fencing that combines serious security with lasting curb appeal — powder-coat finishes designed to hold up in Florida's humidity.",
     ctaText: "Get a Free Estimate",
   },
   intro: {
-    formHeading: "Get Your Free Wrought Iron Estimate",
-    content: "Wrought iron fencing makes a statement. The clean lines and traditional appearance suit {city}'s mix of historic homes, established neighborhoods, and commercial properties. {businessName} installs ornamental iron fencing and gates for residential and commercial customers throughout {city} and the surrounding area. Properly coated iron holds up for decades in {stateAbbr}'s conditions with minimal upkeep.",
+    formHeading: "Request a Wrought Iron Fence Quote",
+    content:
+      "Wrought iron fencing is the right choice when you want a fence that does two things at once: secures your property and improves the look of it. In {city}, where lakefront homes, historic neighborhoods, and estate-style properties share the landscape, ornamental iron has a long track record of adding real value while providing a durable perimeter. {businessName} installs wrought iron fencing and custom gates for residential and commercial properties throughout {county}.",
   },
   sections: [
     {
-      heading: "Ornamental Iron for {city} Properties",
-      content: "Iron fencing is a strong fit for front yard boundaries, garden enclosures, pool surrounds, and commercial entrances where appearance matters. The vertical picket design allows visibility while defining property lines clearly. Many established {city} neighborhoods use ornamental iron because it matches the architectural character of older homes and holds up over time without looking dated. It's also a practical security choice — iron is difficult to breach compared to wood or vinyl.",
+      heading: "Ornamental Iron Styles and Custom Work",
+      content:
+        "Standard wrought iron panel styles with flat tops or spear-tip finials are what most residential customers choose — classic, clean, and functional. For customers who want something specific, we offer custom fabrication options including adjustable panel heights, decorative scrollwork, and matching gate designs. Whether you're fencing a front yard in a Kenilworth-area neighborhood or installing a security perimeter around a commercial property, we can match the ironwork to the architecture and purpose.",
     },
     {
-      heading: "Coatings and Rust Protection in {stateAbbr}",
-      content: "Iron's vulnerability to rust is well-known, and {stateAbbr}'s humidity makes protective coatings critical. We install iron fencing with a powder coat finish that provides a durable, rust-resistant layer without the brittleness or peeling associated with traditional brush-painted iron. Powder-coated iron holds up significantly better in high-humidity environments like {city}'s summers. Black is the most common finish, with dark bronze and dark green available as alternatives.",
+      heading: "Powder-Coat Finishing for Florida's Climate",
+      content:
+        "Rust is the real enemy of any iron fence in Florida's high-humidity environment. Powder-coat finishing is the standard for wrought iron in this climate — it bonds to the metal and creates a sealed barrier against moisture that traditional paint can't match. We use powder-coat finishes in traditional black and can accommodate other colors. Regular maintenance — inspecting for chips and touching up as needed — extends the coating life and keeps rust from gaining a foothold.",
     },
     {
-      heading: "Custom Gates and Access Points",
-      content: "Iron fencing typically includes one or more gates, and we handle those as part of every project. Walk gates, double swing gates, and motorized slide gates are all available. Iron gates can be fabricated to match the fence design exactly or serve as a more prominent architectural element at the entry. We also install gate hardware — heavy-duty hinges, latches, and locking mechanisms — built to handle the weight and use of iron gates over the long term.",
+      heading: "Gates and Access Points",
+      content:
+        "An ornamental iron fence is often chosen specifically for the gate installation. Single swing, double swing, and sliding gate configurations are available, and we install both manual and automated gate hardware. For commercial properties or homes where vehicle access control matters, an automated gate paired with iron fencing is one of the more practical and attractive perimeter setups. We handle the full installation from fence panels through gate hardware and operators.",
     },
   ],
   gallery: {
-    heading: "Wrought Iron Fence Projects in {city}",
+    heading: "Wrought Iron Fence Installations in {city}, {stateAbbr}",
   },
   signsYouNeed: {
-    heading: "Signs Your Iron Fence Needs Work",
-    intro: "Wrought iron lasts a long time, but certain conditions mean it's time to act.",
+    heading: "When to Call {businessName} About Iron Fencing",
+    intro: "Here are the clearest signs your current iron fence needs attention — or it's time to install one.",
     cards: [
       {
-        heading: "Surface Rust Spreading",
-        content: "Small rust spots on powder-coated iron can sometimes be treated. When rust is spreading through the coating over large sections, the finish has failed and the iron is at risk of deeper corrosion.",
+        heading: "Surface Rust Is Spreading",
+        content:
+          "A few rust spots on older iron fencing can be sanded and treated. When rust has spread significantly through the powder coat and is starting to pit the underlying metal, repair becomes less economical than replacement.",
       },
       {
-        heading: "Bent or Damaged Pickets",
-        content: "Vehicle impacts, falling branches, or physical force can bend or break pickets. Damaged sections should be repaired or replaced to maintain both security and appearance.",
+        heading: "Sections Are Bent or Damaged",
+        content:
+          "Vehicle impacts, storm debris, or failed gate hardware can bend iron panels and posts. Bent sections compromise the fence line visually and structurally — and once iron is significantly bent, straightening it cleanly is rarely possible.",
       },
       {
-        heading: "Gate Sagging or Binding",
-        content: "Iron gates are heavy, and hinges wear or pull loose over time. A gate that sags, drags, or won't latch is a fixable issue — but one that gets worse if left unaddressed.",
+        heading: "Gate Hardware Is Failing",
+        content:
+          "Sagging gates that drag the ground, latches that won't catch, and hinges that have shifted out of alignment are common issues as iron fences age. Gate hardware replacement is often a cost-effective fix.",
       },
       {
-        heading: "Deteriorated Paint or Coating",
-        content: "Older iron fences with failing paint and visible corrosion detract from a property's curb appeal and indicate the protective coating has failed. A properly installed replacement transforms the look of the property.",
+        heading: "You're Building or Renovating",
+        content:
+          "A new home, a renovation, or a landscaping overhaul is a natural point to add an iron fence that complements the property. {businessName} can coordinate with landscapers and contractors to time the installation correctly.",
       },
     ],
   },
   process: {
-    heading: "How We Install Wrought Iron Fencing",
-    intro: "Iron fencing installation requires accurate measurement and secure mounting to perform correctly.",
+    heading: "Our Iron Fence Installation Process",
+    intro: "Here's what working with {businessName} on a wrought iron fence looks like.",
     steps: [
       {
-        heading: "Design Consultation and Measurement",
-        content: "We measure the fence line, discuss style and panel height options, and confirm gate locations. For iron, precise measurements are critical since panels are fabricated to specification.",
+        heading: "Design and Estimate",
+        content:
+          "We start with a property walk to measure the fence line, discuss panel styles and gate configurations, and confirm post locations. You'll receive a written estimate with a clear scope of work.",
       },
       {
-        heading: "Post Installation",
-        content: "Posts are set in concrete at proper depth with footings sized for the weight of iron fence. Correct post spacing is critical for panel fit and long-term alignment.",
+        heading: "Material Fabrication and Delivery",
+        content:
+          "Panels are fabricated to your specifications and powder-coated before delivery to the job site. Lead times vary based on the complexity of the order and any custom elements.",
       },
       {
-        heading: "Panel and Picket Installation",
-        content: "Fence panels are attached to posts at the correct height and level. All mounting hardware is galvanized or stainless to prevent rust transfer onto the fence surface.",
+        heading: "Post Setting and Panel Installation",
+        content:
+          "Posts are set in concrete at proper depth — especially important in {city}'s sandy soil. Once posts are cured, panels are attached and aligned to create a straight, consistent fence line.",
       },
       {
-        heading: "Gate Hanging and Hardware",
-        content: "Gates are hung on heavy-duty hinges, leveled, and tested for swing and latch operation. Locking hardware is installed and demonstrated before the job is considered complete.",
+        heading: "Gate Installation and Walkthrough",
+        content:
+          "Gates are hung, hardware is adjusted for proper swing and latch, and everything is tested before we call the job complete. We walk the finished installation with you and address any questions.",
       },
     ],
   },
   cta: {
-    heading: "Get a Wrought Iron Fence Quote in {city}",
-    content: "Contact {businessName} at {phone} for a free estimate on ornamental iron fencing for your {city} property.",
-    ctaText: "Get Your Free Estimate",
+    heading: "Get a Quote on Wrought Iron Fencing in {city}",
+    content:
+      "Contact {businessName} for a free estimate on ornamental iron fencing and custom gates in {city} and throughout {county}. Call {phone} or submit the form.",
+    ctaText: "Request Your Free Estimate",
   },
-  closing: "For wrought iron fencing that lasts in {city}, contact {businessName} at {phone}. We handle everything from design to final gate adjustment.",
+  closing:
+    "{businessName} installs wrought iron fencing built to hold up in {stateAbbr}'s climate and deliver the curb appeal and security our customers are looking for.",
 };
 export default wroughtIronFenceContent;

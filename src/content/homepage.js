@@ -1,139 +1,166 @@
 export const homepageContent = {
   hero: {
-    ctaText: "Get Your Free Estimate",
+    ctaText: "Request Your Free Estimate",
   },
   intro: {
-    heading: "Dalton's Fence Contractors — Built to Last",
+    heading: "Fence Installation & Repair in Sebring, FL",
     paragraphs: [
-      "Dalton Fence Builders installs and repairs fences across Whitfield County and the surrounding area. Whether you need a privacy fence behind your house off Cleveland Highway, a farm fence out in Murray County, or a security perimeter for your commercial property near the I-75 corridor, we handle it with the same crew and the same standards every time.",
-      "Northwest Georgia's red clay soil, summer humidity, and occasional winter ice events put real stress on fences. We build with that in mind — proper post depth, quality materials, and techniques that hold up to what this region throws at them. Call (706) 229-7903 for a free estimate.",
+      "Sebring Fence Builders installs and repairs fences for homeowners, farms, and businesses across Highlands County and the surrounding Florida Heartland. From vinyl privacy fences in Sun 'n Lake to cattle fencing on rural properties near Lake Istokpoga, we handle the full range of residential, agricultural, and commercial work.",
+      "Florida's heat, humidity, and summer storm season put real stress on fences. We build with that in mind — the right post depth for sandy soil, materials rated for subtropical conditions, and construction methods that hold up through hurricane season and beyond.",
     ],
-    formHeading: "Request a Free Estimate",
+    formHeading: "Get Your Free Estimate",
   },
   serviceCards: {
     "chain-link-fence": {
-      description: "Practical and long-lasting chain link fencing for residential and commercial properties. Multiple heights available with privacy slat options and galvanized or vinyl-coated finishes.",
+      description:
+        "Affordable, durable chain-link fencing for residential yards, commercial properties, and agricultural applications. Multiple heights and finishes, with options for privacy slats and coated wire.",
       ctaText: "Learn More",
     },
     "vinyl-fence": {
-      description: "Low-maintenance vinyl fencing that handles Georgia's humidity without rotting or warping. Privacy, semi-privacy, and picket styles built to last decades.",
+      description:
+        "Low-maintenance vinyl fencing that holds up to Florida's heat and humidity without warping, rotting, or fading. Privacy, picket, and semi-privacy styles available.",
       ctaText: "Learn More",
     },
     "wood-fence": {
-      description: "Classic wood fencing built with quality lumber and proper construction to stand up to Northwest Georgia's climate. Privacy and picket styles available.",
+      description:
+        "Classic wood fencing — board-on-board privacy, picket, and split-rail styles — built with quality pressure-treated lumber and techniques that extend lifespan in Florida's climate.",
       ctaText: "Learn More",
     },
     "wrought-iron-fence": {
-      description: "Custom ornamental wrought iron fencing that adds curb appeal and real security to your property. Powder-coated finishes built for Georgia's humid conditions.",
+      description:
+        "Decorative wrought iron fencing with powder-coat finishes that resist rust in Florida's humidity. Custom ornamental designs and gates for residential and commercial properties.",
       ctaText: "Learn More",
     },
     "metal-fence": {
-      description: "Modern steel and aluminum fencing for residential and commercial use. Low-maintenance with a clean, contemporary look that holds up long-term.",
+      description:
+        "Aluminum and steel fencing options for modern residential and commercial applications. Durable, low-maintenance, and suited to both aesthetic and industrial uses.",
       ctaText: "Learn More",
     },
     "farm-ranch-fence": {
-      description: "Agricultural fencing for farms and rural properties across Whitfield, Murray, and Gordon counties. Pipe fence, field fence, no-climb, and livestock corrals.",
+      description:
+        "Agricultural fencing for cattle ranches, horse properties, and rural land in Highlands County. Barbed wire, field fence, no-climb horse fence, and pipe and rail for working operations.",
       ctaText: "Learn More",
     },
     "fence-repair": {
-      description: "Fast repairs for storm-damaged, leaning, or worn fences of any type. Full replacement isn't always the answer — we give you an honest assessment first.",
+      description:
+        "Fast repairs for storm-damaged fences, leaning posts, broken boards, and worn hardware. We fix all fence types honestly — full replacement is often not necessary.",
       ctaText: "Learn More",
     },
     "commercial-fencing": {
-      description: "Security perimeters, access control fencing, and durable enclosures for businesses, industrial sites, and multi-family properties throughout the area.",
+      description:
+        "Security perimeters, access control, and durable fencing for businesses, industrial sites, and multi-family properties throughout Sebring and Highlands County.",
       ctaText: "Learn More",
     },
   },
   about: {
-    heading: "Local Fence Builders Who Know This Area",
-    content: "We've been installing fences in Dalton and across Northwest Georgia long enough to know what works here and what doesn't. Georgia's red clay, summer humidity, and winter ice events all affect how fences perform over time. We account for that in every job — from post depth to material selection. Our crew is local, our work is straightforward, and we stand behind what we build.",
+    heading: "Highlands County's Local Fence Contractor",
+    content:
+      "Sebring Fence Builders is a locally owned operation serving Sebring, Avon Park, Lake Placid, and the surrounding Highlands County communities. We handle residential, agricultural, and commercial fencing — built to last in Florida's demanding climate. Every project gets a straight estimate, a reliable crew, and workmanship we stand behind.",
     ctaText: "About Us",
   },
   whyChooseUs: {
-    heading: "Why Dalton Chooses Us",
-    intro: "We're not a franchise or an out-of-town outfit. We're a local fencing company that knows Whitfield County and has the track record to prove it.",
+    heading: "Why Sebring Chooses Us",
+    intro:
+      "We focus on straightforward work done right — no overselling, no surprises on the invoice, and no cutting corners on post depth or materials.",
     cards: [
       {
-        heading: "Local Experience",
-        content: "We understand Northwest Georgia's soil conditions, climate, and building requirements. That knowledge shows up in every fence we build — from post depth to material selection.",
+        heading: "Built for Florida",
+        content:
+          "Sandy soil, high humidity, and hurricane-season storms require specific construction practices. We set posts to the right depth and use materials that hold up in subtropical conditions year after year.",
       },
       {
-        heading: "Straightforward Pricing",
-        content: "No vague estimates or surprise costs. You get a written quote before any work starts, and we stick to it.",
+        heading: "Honest Pricing",
+        content:
+          "You get a clear estimate before any work starts. What we quote is what you pay — no change orders for things we should have accounted for during the walk-through.",
       },
       {
-        heading: "Quality Materials",
-        content: "We use materials rated for Southern climates — pressure-treated lumber, galvanized hardware, and vinyl products that handle Georgia's humidity without issue.",
+        heading: "Locally Owned",
+        content:
+          "We're based in Sebring, not dispatched from a regional office. When you call, you're talking to someone who knows this area and stands behind the work personally.",
       },
       {
         heading: "All Fence Types",
-        content: "One company for every fencing need. Chain link, wood, vinyl, iron, farm fence, and commercial — we handle all of it with the same experienced crew.",
+        content:
+          "From vinyl privacy fences in residential neighborhoods to cattle fencing on working ranches, we install and repair the full range of fence materials and styles.",
       },
     ],
   },
   gallery: {
-    heading: "Our Work in Dalton and Surrounding Areas",
+    heading: "Our Work in Highlands County",
   },
   perks: {
-    heading: "What You Get With Dalton Fence Builders",
-    intro: "From the first call to the final walkthrough, here's what working with us looks like.",
+    heading: "What You Can Expect",
+    intro: "Every job — from a small repair to a full commercial installation — runs the same way.",
     cards: [
       {
         heading: "Free Estimates",
-        content: "We come out, take measurements, and give you a written estimate at no charge. No pressure, no sales pitch — just accurate numbers for your project.",
+        content:
+          "We come to your property, assess what's needed, and give you a written estimate at no charge.",
       },
       {
-        heading: "Permit Assistance",
-        content: "We handle the permit process and coordinate with Whitfield County when required, so you don't have to navigate the paperwork on your own.",
+        heading: "On-Time Crews",
+        content:
+          "We schedule a start date and stick to it. If something comes up, we communicate ahead of time — not after you've waited all morning.",
       },
       {
         heading: "Clean Job Sites",
-        content: "We clear out debris and materials when the job is done. Your property is left clean — not littered with offcuts and packaging.",
+        content:
+          "We haul out what we bring in. Old fence material, packaging, and job-site debris get removed when we're done.",
       },
       {
-        heading: "Reliable Scheduling",
-        content: "We show up when we say we will. If something changes, we call you — not the other way around.",
+        heading: "Post-Install Walkthrough",
+        content:
+          "Before we leave, we walk the finished fence with you. If anything needs adjustment, we handle it on the spot.",
       },
     ],
   },
   faq: {
-    heading: "Common Fencing Questions",
-    intro: "Straightforward answers to what Dalton homeowners and businesses ask us most.",
+    heading: "Common Questions",
+    intro:
+      "Here are the questions we hear most from customers in Sebring and Highlands County.",
     questions: [
       {
-        question: "Do I need a permit for a fence in Dalton?",
-        answer: "It depends on the fence type and location. Most residential privacy fences in the City of Dalton require a permit. In unincorporated Whitfield County, the rules differ. We pull permits when needed and walk you through the process.",
+        question: "Do you pull permits for fence installations in Sebring?",
+        answer:
+          "Permit requirements vary by project type and Highlands County zoning. We'll let you know during the estimate whether your project requires a permit and can assist with the application process.",
       },
       {
-        question: "How long does fence installation take?",
-        answer: "Most residential jobs take one to two days. Larger commercial projects or long farm fence runs take longer. We give you a realistic timeline with your estimate and keep you updated as the job progresses.",
+        question: "How deep do you set fence posts in Florida's sandy soil?",
+        answer:
+          "Post depth depends on fence height and material, but we typically set posts deeper than standard guidelines to account for Florida's loose, sandy soil. Proper depth is the single biggest factor in long-term fence stability.",
       },
       {
-        question: "What fence materials hold up best in Northwest Georgia?",
-        answer: "Vinyl handles the humidity well and requires no painting or sealing. Pressure-treated wood performs well if maintained properly. Chain link is durable and low-maintenance. For ornamental work, powder-coated aluminum or wrought iron holds up to Georgia's conditions better than bare steel.",
+        question: "What fence material holds up best in Sebring's climate?",
+        answer:
+          "Vinyl and aluminum require the least maintenance in Florida's humidity and UV exposure. Wood and chain-link perform well too with the right treatments and coatings. We'll recommend what makes sense for your situation and budget.",
       },
       {
-        question: "Can you repair my existing fence instead of replacing it?",
-        answer: "Often, yes. We assess the fence honestly and tell you whether repair or replacement makes more financial sense. If posts are solid and the structure is sound, repairs usually cost less and perform just as well.",
+        question: "Do you repair hurricane or storm-damaged fences?",
+        answer:
+          "Yes. Storm damage is one of the most common repair jobs we handle. After a storm, we'll assess whether sections need repair or full replacement — and we're straightforward about what's actually necessary versus what can be saved.",
       },
       {
-        question: "How deep do you set fence posts in Georgia clay?",
-        answer: "Typically 24 to 36 inches depending on fence height and local soil conditions. Georgia's clay can shift with seasonal moisture, so proper depth and concrete setting matter significantly for long-term stability.",
+        question: "How long does a fence installation typically take?",
+        answer:
+          "Most residential installations take one to two days. Larger agricultural or commercial projects may run longer depending on acreage and fence type. We'll give you a realistic timeline during the estimate.",
       },
       {
-        question: "Do you install gates?",
-        answer: "Yes — every fence project can include gates. Walk gates, double drive gates, and automated openers are all available. We build and hang them as part of the job, not as an afterthought.",
+        question: "Do you install farm and ranch fencing in Highlands County?",
+        answer:
+          "Yes — a significant portion of our work is agricultural. We install barbed wire, field fence, no-climb horse fence, and pipe and rail for cattle operations and horse properties across Highlands County and into neighboring counties.",
       },
       {
-        question: "What areas do you serve beyond Dalton?",
-        answer: "We serve all of Whitfield County and the surrounding region — including Rocky Face, Varnell, Ringgold, Chatsworth, Chickamauga, Calhoun, East Ridge, and Cleveland. Call us if you're not sure whether we cover your area.",
+        question: "What areas do you serve?",
+        answer:
+          "Our primary service area covers Sebring, Avon Park, Lake Placid, Frostproof, Wauchula, Arcadia, Okeechobee, Lake Wales, and Fort Meade. We also take on projects in surrounding areas — give us a call to confirm.",
       },
     ],
   },
   cta: {
-    heading: "Ready for a Fence That Lasts?",
-    content: "Get a free estimate from Dalton's local fence contractors. We serve Whitfield County and all of Northwest Georgia.",
-    ctaText: "Get Your Free Estimate",
+    heading: "Ready for a New Fence?",
+    content:
+      "Get in touch with Sebring Fence Builders for a free, no-obligation estimate on your residential, agricultural, or commercial fencing project.",
+    ctaText: "Request Your Free Estimate",
   },
 };
 export default homepageContent;

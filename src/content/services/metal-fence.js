@@ -1,83 +1,99 @@
 export const metalFenceContent = {
   seo: {
     title: "Metal Fence Installation in {city}, {stateAbbr} | {businessName}",
-    description: "Modern metal fence installation in {city}, {stateAbbr}. Steel panels, aluminum fencing, and corrugated metal options. Call {phone} for a free estimate.",
+    description:
+      "Aluminum and steel metal fencing for residential and commercial properties in {city}, {stateAbbr}. Durable and low-maintenance. Call {phone} for a free estimate.",
   },
   hero: {
-    heading: "Metal Fence Installation in {city}",
-    subtitle: "Contemporary steel and aluminum fencing for residential and commercial properties in {city} and surrounding {stateAbbr} communities.",
+    heading: "Metal Fence Installation in {city}, {stateAbbr}",
+    subtitle:
+      "Modern aluminum and steel fencing options — durable, low-maintenance, and suited for both residential and commercial applications in {county}.",
     ctaText: "Get a Free Estimate",
   },
   intro: {
-    formHeading: "Get Your Free Metal Fence Estimate",
-    content: "Metal fencing goes beyond traditional chain link and wrought iron. {businessName} installs modern steel panel fences, aluminum fencing, corrugated metal privacy fences, and tube steel options for {city} residential and commercial customers. These products offer distinct aesthetics and performance characteristics suited to contemporary properties and specific use cases that older fence types don't address as well.",
+    formHeading: "Request a Metal Fence Quote",
+    content:
+      "Metal fencing covers a broad category beyond traditional wrought iron. Aluminum panel fencing, steel corrugated panels, and commercial-grade welded steel each have specific use cases. {businessName} installs metal fencing for residential properties seeking a clean modern look, commercial properties needing a durable perimeter, and industrial or agricultural operations where raw strength takes priority over appearance.",
   },
   sections: [
     {
-      heading: "Modern Metal Fence Options in {city}",
-      content: "Aluminum fencing provides an ornamental appearance similar to wrought iron with less weight and better corrosion resistance — a practical advantage in {stateAbbr}'s humid climate. Steel tube panel fencing offers a clean industrial look suited to modern homes and commercial properties. Corrugated metal privacy fences have grown in popularity as a wood alternative — they don't rot, hold up to impact, and come in a range of finishes. Each material has different cost, weight, and maintenance profiles we can walk you through during your estimate.",
+      heading: "Aluminum Fencing for Residential Properties",
+      content:
+        "Aluminum fencing is the practical choice for homeowners who want the look of ornamental fencing with none of the rust concerns. Aluminum doesn't corrode — a significant advantage in {stateAbbr}'s humidity and near-water environments. It's lighter than iron, available in a range of powder-coat colors, and holds up well to UV exposure. For lakefront properties near Lake Jackson or residential lots in {city}'s planned communities, aluminum offers the style of ornamental fencing at lower long-term maintenance cost.",
     },
     {
-      heading: "Aluminum vs. Steel: Choosing the Right Material",
-      content: "Aluminum is the better choice where corrosion resistance is the priority — it won't rust even in {stateAbbr}'s humid summers. Steel is stronger and better suited for security applications, but requires quality coating to prevent rust. For most residential ornamental applications in {city}, aluminum is the practical choice. For industrial perimeters, equipment yards, or properties that need higher impact resistance, steel provides the structural strength aluminum doesn't match.",
+      heading: "Steel Panel and Commercial Metal Options",
+      content:
+        "For applications where impact resistance and security take priority — commercial properties, equipment yards, warehouses, or industrial lots — heavier-gauge steel fencing delivers in ways aluminum and vinyl cannot. Corrugated steel privacy panels are also gaining ground as a design choice in commercial and residential applications where a modern, industrial aesthetic fits. {businessName} handles the full range from residential aluminum to heavy commercial steel.",
     },
     {
-      heading: "Metal Fencing for {city} Commercial Properties",
-      content: "{city}'s commercial and industrial base — including manufacturing operations, distribution facilities, and business parks — often requires fencing that balances security with appearance. Steel tube perimeter fencing, aluminum rail systems, and combination metal-and-panel installations work well for these applications. We handle permits, site coordination, and commercial-scale installations with the same approach as residential work, just at larger scale.",
+      heading: "Metal Fencing in {stateAbbr}'s Climate",
+      content:
+        "The main challenge for most metal fencing in Florida is moisture management. Aluminum essentially solves this problem — it doesn't rust. Steel and iron require powder-coat or similar protective finishes maintained over time. Proper installation also matters: post bases that allow water to pool accelerate corrosion from the ground up. We install all metal fencing with attention to drainage and finish quality to maximize service life in {city}'s climate.",
     },
   ],
   gallery: {
-    heading: "Metal Fence Projects in {city}",
+    heading: "Metal Fence Installations in {city}, {stateAbbr}",
   },
   signsYouNeed: {
-    heading: "When to Consider a Metal Fence",
-    intro: "Metal fencing is the right call in several specific situations.",
+    heading: "When It's Time for New Metal Fencing",
+    intro: "Here are clear signs your existing metal fence needs repair or replacement.",
     cards: [
       {
-        heading: "Wood Fence Is Failing",
-        content: "Replacing a wood privacy fence that hasn't held up well in Georgia's humidity? Corrugated metal or steel panels are a longer-lasting alternative that requires no painting or board replacement.",
+        heading: "Visible Rust on Steel Sections",
+        content:
+          "Surface rust on steel or iron fencing is manageable early on. Once rust has pitted through the surface of the metal, section replacement is usually more practical than continued patching.",
       },
       {
-        heading: "Contemporary Design Goals",
-        content: "Steel tube and aluminum panel fencing fits modern home aesthetics in a way traditional wood and chain link don't. If your property has a contemporary look, metal options often match it better.",
+        heading: "Posts Are Loose at Ground Level",
+        content:
+          "Metal posts that rock or lean indicate the concrete footing has failed or the post base has corroded underground — a common issue when water pools at the base. This needs prompt attention.",
       },
       {
-        heading: "Low Maintenance Is the Priority",
-        content: "Powder-coated aluminum and treated steel require far less maintenance than wood. No staining, no board replacement, just an occasional rinse to maintain appearance.",
+        heading: "Panels Are Bent or Damaged",
+        content:
+          "Vehicle impacts, storm debris, or structural shifts can bend metal panels. Bent panels are difficult to straighten cleanly and typically need replacement to restore the fence's appearance and function.",
       },
       {
-        heading: "Industrial or Security Application",
-        content: "For warehouse perimeters, equipment yards, or properties that require real deterrence, heavy steel tube fencing provides the strength that lighter materials can't match.",
+        heading: "Old Fence No Longer Fits the Property",
+        content:
+          "A change in how the property is used — converting a storage lot to commercial space, upgrading a residence, or adding security requirements — often makes existing fencing inadequate for current needs.",
       },
     ],
   },
   process: {
-    heading: "How We Install Metal Fencing",
-    intro: "Metal fence installation is precise work — proper post placement and panel alignment determine the final result.",
+    heading: "Our Metal Fence Installation Process",
+    intro: "Here's how {businessName} handles metal fence projects from start to finish.",
     steps: [
       {
-        heading: "Consultation and Material Selection",
-        content: "We discuss your goals, walk the site, and recommend the right metal product for your application. Material specs, heights, and finish options are confirmed before anything is ordered.",
+        heading: "Site Assessment and Estimate",
+        content:
+          "We visit the property, measure the fence line, and discuss your material and style requirements. Residential, commercial, and industrial applications have different specifications — we confirm the right product before quoting.",
       },
       {
-        heading: "Post Setting and Alignment",
-        content: "Posts are set in concrete at proper depth and spacing for the panel system being installed. Alignment is critical for metal panels since they don't bend to compensate for misaligned posts.",
+        heading: "Material Sourcing and Preparation",
+        content:
+          "Materials are ordered based on your project specifications. For custom fabrication or powder-coat finishes, lead time varies. We'll communicate a realistic schedule from the start.",
       },
       {
-        heading: "Panel and Rail Attachment",
-        content: "Panels and rails are attached using corrosion-resistant hardware matched to the material. All fasteners are selected to prevent rust staining and premature failure at connection points.",
+        heading: "Post Setting and Installation",
+        content:
+          "Posts are set in concrete to the appropriate depth. Metal fence installation requires correct post spacing and alignment — errors here compound across the full fence run.",
       },
       {
-        heading: "Gates and Final Inspection",
-        content: "Gates are hung, hardware is adjusted, and we walk the fence line with you before finishing. Any adjustments needed are made on-site before we leave the job.",
+        heading: "Final Inspection and Walkthrough",
+        content:
+          "Gates are installed and tested, connections are inspected, and we walk the finished installation with you. Any adjustments are handled before we leave the job site.",
       },
     ],
   },
   cta: {
-    heading: "Interested in Metal Fencing for Your {city} Property?",
-    content: "Call {businessName} at {phone} for a free consultation and estimate. We install metal fencing for homes and businesses throughout {city} and {stateAbbr}.",
-    ctaText: "Get Your Free Estimate",
+    heading: "Get a Metal Fence Quote in {city}",
+    content:
+      "{businessName} installs aluminum, steel, and ornamental metal fencing throughout {county}. Call {phone} or fill out the form for a free estimate.",
+    ctaText: "Request Your Free Estimate",
   },
-  closing: "{businessName} installs quality metal fencing in {city} for residential and commercial customers. Call {phone} to get your project started.",
+  closing:
+    "From residential aluminum fencing to heavy commercial steel, {businessName} matches the right metal fence product to your property's needs and {stateAbbr}'s climate demands.",
 };
 export default metalFenceContent;

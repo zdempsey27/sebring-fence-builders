@@ -239,17 +239,17 @@ const overlayColor = colors.overlay;
 
   <!-- ABOUT SECTION (Two Column) -->
   <section class="section about-section" style={`
-    background-image: linear-gradient(rgba(248, 248, 248, 0.95), rgba(248, 248, 248, 0.95)), url('${images.backgrounds.vinyl}');
+    background-image: linear-gradient(rgba(${overlayColor}, 0.92), rgba(${overlayColor}, 0.92)), url('${images.backgrounds.vinyl}');
     background-size: cover;
     background-position: center;
   `}>
     <div class="container">
       <div class="about-grid">
         <div class="about-content">
-          <span class="section-label">LOCAL EXPERTS</span>
-          <h2>{content.about.heading}</h2>
-          <p style="line-height: 1.8; color: #444; margin-bottom: 1.5rem;">{content.about.content}</p>
-          <a href="/about" class="btn">{content.about.ctaText}</a>
+          <span class="section-label" style={`color: ${accentColor};`}>LOCAL EXPERTS</span>
+          <h2 style="color: white;">{content.about.heading}</h2>
+          <p style="line-height: 1.8; color: rgba(255,255,255,0.9); margin-bottom: 1.5rem;">{content.about.content}</p>
+          <a href="/about" class="btn" style="background: var(--accent); color: #1a1a1a;">{content.about.ctaText}</a>
         </div>
         <div class="about-image">
           <img src={images.installers[1] || images.aboutWork} alt={`Fence Contractor in ${city}, ${stateAbbr}`}>

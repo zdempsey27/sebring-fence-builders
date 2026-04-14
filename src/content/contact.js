@@ -1,16 +1,17 @@
 export const contactContent = {
   hero: {
-    heading: "Contact Dalton Fence Builders",
-    subtitle: "Ready to get started? Call or send us a message for a free estimate.",
+    heading: "Contact Sebring Fence Builders",
+    subtitle: "Get in touch for a free estimate or to ask questions about your fencing project.",
   },
   main: {
-    heading: "Get in Touch",
-    content: "We serve Dalton and all of Northwest Georgia. Call us during business hours or fill out the form and we'll get back to you within one business day.",
+    heading: "Let's Talk About Your Fence",
+    content:
+      "Whether you need a new installation, a repair, or just want to know what your options are, we're easy to reach. Call us directly or fill out the form and we'll get back to you promptly.",
   },
   contactInfo: {
     phoneLabel: "Phone",
-    addressLabel: "Location",
-    addressText: "Dalton, GA",
+    addressLabel: "Service Area",
+    addressText: "Sebring, {stateAbbr} and throughout Highlands County",
     hoursLabel: "Business Hours",
     hours: "Mon-Fri: 7:00 AM - 6:00 PM\nSat: 8:00 AM - 4:00 PM\nSun: Closed",
     preferCallHeading: "Prefer to Call?",
@@ -23,18 +24,19 @@ export const contactContent = {
       email: "Email Address",
       phone: "Phone Number",
       address: "Property Address",
-      addressPlaceholder: "123 Main St, Dalton, GA",
+      addressPlaceholder: "Street address where fence is needed",
       service: "Service Needed",
       message: "Project Details",
-      messagePlaceholder: "Tell us about your fence project — type, size, any specifics we should know.",
-      timeline: "When do you need this done?",
+      messagePlaceholder:
+        "Describe your fence project — type, size, any specifics we should know",
+      timeline: "Desired Timeline",
     },
     timelineOptions: [
-      { value: "asap", label: "As soon as possible" },
-      { value: "1-2weeks", label: "Within 1-2 weeks" },
-      { value: "1month", label: "Within a month" },
-      { value: "planning", label: "Just planning ahead" },
-      { value: "unsure", label: "Not sure yet" },
+      { value: "asap", label: "As Soon As Possible" },
+      { value: "1-2-weeks", label: "Within 1-2 Weeks" },
+      { value: "1-month", label: "Within a Month" },
+      { value: "flexible", label: "I'm Flexible" },
+      { value: "just-pricing", label: "Just Getting Pricing" },
     ],
   },
 };

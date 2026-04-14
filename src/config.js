@@ -1,4 +1,5 @@
 import fs from 'fs';
+import { testimonials } from './content/testimonials.js';
 
 // ============================================================================
 // IMAGE AUTO-DISCOVERY — No need to edit image paths manually
@@ -38,15 +39,15 @@ const CITY = "Sebring";
 const STATE = "Florida";
 const STATE_ABBR = "FL";
 const COUNTY = "Highlands County";
-const REGION = "Florida Hearrtland Region";
-const GEO_LAT = 34.7698;
-const GEO_LNG = -84.9702;
+const REGION = "Florida Heartland Region";
+const GEO_LAT = 27.4958;
+const GEO_LNG = -81.4512;
 
-const PRIMARY_COLOR = "#2C3E50";
-const PRIMARY_DARK = "#1A252F";
-const SECONDARY_COLOR = "#7D6B5D";
-const ACCENT_COLOR = "#E67E22";
-const OVERLAY_COLOR = "44, 62, 80"; // RGB values of PRIMARY_COLOR for rgba() overlays
+const PRIMARY_COLOR = "#1B3A5F";
+const PRIMARY_DARK = "#0F2840";
+const SECONDARY_COLOR = "#2D6B3F";
+const ACCENT_COLOR = "#C9A227";
+const OVERLAY_COLOR = "27, 58, 95"; // RGB values of PRIMARY_COLOR for rgba() overlays
 
 // Hero & Trust Signals — customize per client
 const HERO_TAGLINE = "PROFESSIONAL FENCE INSTALLATION";
@@ -65,7 +66,7 @@ const TRUST_BADGES = [
 ];
 
 // Business Hours
-const BUSINESS_HOURS = "Mon-Fri: 7:00 AM - 6:00 PM";
+const BUSINESS_HOURS = "Mon-Fri: 7:00 AM - 6:00 PM\nSat: 8:00 AM - 2:00 PM";
 
 // Why Choose Us Stats (progress bars)
 const STATS = [
@@ -74,29 +75,7 @@ const STATS = [
   { label: "On-Time Completion", value: 94 },
 ];
 
-// Testimonials
-const TESTIMONIALS = [
-  {
-    quote: "They built a solid board-on-board privacy fence around our backyard off Dug Gap Road. The crew showed up on time, worked clean, and finished in a day and a half. Exactly what we needed.",
-    name: "Robert M.",
-    location: "Dalton"
-  },
-  {
-    quote: "We needed a farm fence for our horse property in Murray County. They understood exactly what we needed for the terrain and delivered quality work at a fair price. Would use them again.",
-    name: "Sarah T.",
-    location: "Chatsworth"
-  },
-  {
-    quote: "After a storm knocked over a section of our fence, they came out quickly and had it repaired within a few days. Good communication and honest pricing.",
-    name: "Mike & Linda K.",
-    location: "Ringgold"
-  },
-  {
-    quote: "Professional from the estimate to the final walkthrough. Our new vinyl fence looks great and the installation was clean and efficient. These guys know what they're doing.",
-    name: "Jennifer H.",
-    location: "Rocky Face"
-  },
-];
+// Testimonials — imported from src/content/testimonials.js
 
 // Just type the area names — slugs generate automatically.
 // Put your primary city FIRST.
@@ -164,7 +143,7 @@ export const siteConfig = {
   },
 
   stats: STATS,
-  testimonials: TESTIMONIALS,
+  testimonials: testimonials,
   businessHours: BUSINESS_HOURS,
 
   services: [

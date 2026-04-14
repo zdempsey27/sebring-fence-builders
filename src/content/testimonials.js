@@ -1,30 +1,23 @@
-// ============================================================================
-// TESTIMONIALS — Generated per site with local references
-// ============================================================================
-// Each testimonial should reference real local streets, neighborhoods, or
-// landmarks to feel authentic. Locations should match SERVICE_AREA_NAMES.
-
 export const testimonials = [
   {
-    quote: "They built a solid board-on-board privacy fence around our backyard off [LOCAL STREET]. The crew showed up on time, worked clean, and finished in a day and a half. Exactly what we needed.",
-    name: "Robert M.",
-    location: "Primary City"
+    quote: "They installed a vinyl privacy fence along the back of our property near Kenilworth Boulevard. The crew was on time, worked clean, and left the yard neat. We've already had neighbors asking who did the work.",
+    name: "Donna R.",
+    location: "Sebring"
   },
   {
-    quote: "We needed a farm fence for our horse property in [NEARBY COUNTY]. They understood exactly what we needed for the terrain and delivered quality work at a fair price. Would use them again.",
-    name: "Sarah T.",
-    location: "Service Area 2"
+    quote: "Needed cattle fencing on our property off SR-64 outside Wauchula. They understood the terrain and got the posts set deep enough to handle the herd. Finished ahead of schedule and priced it honestly.",
+    name: "Tommy B.",
+    location: "Wauchula"
   },
   {
-    quote: "After a storm knocked over a section of our fence, they came out quickly and had it repaired within a few days. Good communication and honest pricing.",
-    name: "Mike & Linda K.",
-    location: "Service Area 3"
+    quote: "A storm knocked out two sections of our wood fence near Lake Placid. They came out within two days, matched the existing boards, and had everything solid again. Good honest work.",
+    name: "Carol & Jim F.",
+    location: "Lake Placid"
   },
   {
-    quote: "Professional from the estimate to the final walkthrough. Our new vinyl fence looks great and the installation was clean and efficient. These guys know what they're doing.",
-    name: "Jennifer H.",
-    location: "Service Area 4"
+    quote: "Hired them for chain-link around our commercial lot on US-27 in Avon Park. Showed up when they said they would, finished on schedule, and the price matched the estimate exactly.",
+    name: "Marcus T.",
+    location: "Avon Park"
   },
 ];
-
 export default testimonials;
